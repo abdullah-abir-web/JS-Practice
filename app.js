@@ -40,6 +40,7 @@
 
 
 //Number Data type
+
 // let price = 200; //----number
 // console.log(price);
 
@@ -49,7 +50,16 @@
 // let number = 20.200;  // -----floating point number
 
 // 1) Infinity  // infinity hocche emon ekti value ja sobar tekhe boro ----------example = alert (25 / 0);
+
 // 2) NaN  //  emon ekta kichu ke / korte chai jeta number noy ---------example  = "hello"/20 
+
 //  let divison = (20 / 0);
 // console.log(divison);  ------ infinity
+
+// console.log("hello" / 20); ------Nan
+
+// BigInt boro number use korar jonno use----n shb broeser e kaj korena
+
+//Number Data type End
+
 
