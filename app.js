@@ -5,8 +5,7 @@
 // console.log("HELLO");
 // alert("HELLO")
 
-// Variable
-
+/*Variable*/
 // let name;     ----- declare
 // name = "abir";       ----- define
 
@@ -26,21 +25,15 @@
 
 // alert(age);
 // alert (name);
-
 // Variable End //
 
 
-
-//Constant
+/*Constant*/
 // const myName = "Abir";
 // alert(myName);
 
 
-
-
-
-//Number Data type
-
+/*Number Data type*/
 // let price = 200; //----number
 // console.log(price);
 
@@ -51,7 +44,7 @@
 
 // 1) Infinity  // infinity hocche emon ekti value ja sobar tekhe boro ----------example = alert (25 / 0);
 
-// 2) NaN  //  emon ekta kichu ke / korte chai jeta number noy ---------example  = "hello"/20 
+// 2) NaN  //  emon ekta kichu ke / korte chai jeta number noy ---------example  = "hello"/20
 
 //  let divison = (20 / 0);
 // console.log(divison);  ------ infinity
@@ -59,7 +52,38 @@
 // console.log("hello" / 20); ------Nan
 
 // BigInt boro number use korar jonno use----n shb broeser e kaj korena
+/*Number Data type End*/
 
-//Number Data type End
+
+
+
+/*String*/
+// let message = "Hello"; //--------string
+// console.log(message);
+
+// let name = 'hi';
+// alert(name)
+
+/*Backtick*/
+// let price = 200;
+// let name = `Abir ${price}`; //----------${}
+// console.log(name);
+
+// let age = 20;
+// let name = "kalu";
+// let message = `hello ${name} your age ${age}`
+// alert(message)
+
+// let age = 20;
+// let name = "kalu";
+// let message = "hello "+name+" your age "+age+""; ------------OLD STYLE
+// alert(message);
+/*Backtick End*/
+
+
+
+/*Boolean Type*/
+//1 true 
+//2 false
 
 
