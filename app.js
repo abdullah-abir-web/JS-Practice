@@ -96,6 +96,18 @@
 
 
 /*Null  Type*/
-let name = "null"; //Null mane bujhay faka ekti value , ba emon ekti value ja amar jana nai, ba khali
+// let name = null; //Null mane bujhay faka ekti value , ba emon ekti value ja amar jana nai, ba khali
+// let name = ""; ------blank
+// null--------------- //null mane otar moddhe kono valua ase nai
+/*Null End*/
+
+
+
+/* Undefind */
+// let name = undefined;
+// let name;
+// alert(name);
+// undefined------- mane hocche variable ta ami toiri korechi , kintu variable tar moddhe vaalue asign e hoy nai
+/* Undefind  End*/
 
 
