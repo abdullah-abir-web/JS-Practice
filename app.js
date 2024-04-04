@@ -86,4 +86,16 @@
 //1 true 
 //2 false
 
+//  let isFollow = false;
+//  alert(isFollow);
+
+//  let isFollow = true;
+//  alert(isFollow);
+/*Boolean Type End*/
+
+
+
+/*Null  Type*/
+let name = "null"; //Null mane bujhay faka ekti value , ba emon ekti value ja amar jana nai, ba khali
+
 
