@@ -110,10 +110,12 @@
 // undefined------- mane hocche variable ta ami toiri korechi , kintu variable tar moddhe vaalue asign e hoy nai
 /* Undefind  End*/
 
+
+
 /* TypeOf Operator */
-
-
-
+let name = "abir";
+typeof (name);
+alert(name);
 /* TypeOf Operator End */
 
 
