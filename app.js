@@ -113,10 +113,12 @@
 
 
 /* TypeOf Operator */
-let name = "abir";
-console.log(typeof (name));
-console.log(typeof(20));
+// let name = "abir";
+// console.log(typeof (name));
+// console.log(typeof(20));//------function form
+//    console.log(typeof name); //---operator form
 /* TypeOf Operator End */
+
 
 
 
