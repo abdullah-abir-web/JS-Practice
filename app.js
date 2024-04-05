@@ -114,8 +114,8 @@
 
 /* TypeOf Operator */
 let name = "abir";
-typeof (name);
-alert(name);
+console.log(typeof (name));
+console.log(typeof(20));
 /* TypeOf Operator End */
 
 
