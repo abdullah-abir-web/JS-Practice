@@ -27,11 +27,9 @@
 // alert (name);
 // Variable End //
 
-
 /*Constant*/
 // const myName = "Abir";
 // alert(myName);
-
 
 /*Number Data type*/
 // let price = 200; //----number
@@ -53,9 +51,6 @@
 
 // BigInt boro number use korar jonno use----n shb broeser e kaj korena
 /*Number Data type End*/
-
-
-
 
 /*String*/
 // let message = "Hello"; //--------string
@@ -80,10 +75,8 @@
 // alert(message);
 /*Backtick End*/
 
-
-
 /*Boolean Type*/
-//1 true 
+//1 true
 //2 false
 
 //  let isFollow = false;
@@ -93,15 +86,11 @@
 //  alert(isFollow);
 /*Boolean Type End*/
 
-
-
 /*Null  Type*/
 // let name = null; //Null mane bujhay faka ekti value , ba emon ekti value ja amar jana nai, ba khali
 // let name = ""; ------blank
 // null--------------- //null mane otar moddhe kono valua ase nai
 /*Null End*/
-
-
 
 /* Undefind */
 // let name = undefined;
@@ -110,8 +99,6 @@
 // undefined------- mane hocche variable ta ami toiri korechi , kintu variable tar moddhe vaalue asign e hoy nai
 /* Undefind  End*/
 
-
-
 /* TypeOf Operator */
 // let name = "abir";
 // console.log(typeof (name));
@@ -119,21 +106,18 @@
 //    console.log(typeof name); //---operator form
 /* TypeOf Operator End */
 
-
-
 /* Prompt and confrim */
 // let name = prompt ("enter your name","abir"); ---valua name = argument
 // console.log(name);
 // alert("hello");
 /* Prompt and confrim End */
 
-
-
 /* Type Conversion */
 
 /* Type Conversion end */
 
-
-
-
 /* if Statement */
+
+if (condition) {
+    
+};
