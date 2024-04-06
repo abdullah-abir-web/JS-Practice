@@ -116,15 +116,17 @@
 
 /* Type Conversion end */
 
+
+
+
 /* if Statement */
 // let myName = "Abir";
-
 // if (myName == "Abir") {
 //   alert("hello JS");
 // }
+// let myName = prompt("enter a nickname");
 
-let myName = prompt("enter a nickname");
-
-if (myName == "something") {
-  alert('Your name is'  + myName);
-}
+// if (myName == "something") {
+//   alert('Your name is'  + myName);
+// }
+/* if Statement End */
