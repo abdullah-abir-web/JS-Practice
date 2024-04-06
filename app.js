@@ -127,3 +127,8 @@
 // alert("hello");
 /* Prompt and confrim End */
 
+
+
+/* Type Conversion */
+
+/* Type Conversion end */
