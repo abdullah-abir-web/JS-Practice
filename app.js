@@ -118,8 +118,8 @@
 
 /* if Statement */
 
-let myName = ("Abir");
+let myName = "Abir";
 
-if (condition) {
-    
-};
+if (myName == "Abir") {
+  alert("hello JS");
+}
