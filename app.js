@@ -122,7 +122,7 @@
 
 
 /* Prompt and confrim */
-// let name = prompt ("enter your name");
+// let name = prompt ("enter your name","abir"); ---valua name = argument
 // console.log(name);
 // alert("hello");
 /* Prompt and confrim End */
