@@ -117,9 +117,14 @@
 /* Type Conversion end */
 
 /* if Statement */
+// let myName = "Abir";
 
-let myName = "Abir";
+// if (myName == "Abir") {
+//   alert("hello JS");
+// }
 
-if (myName == "Abir") {
-  alert("hello JS");
+let myName = prompt("enter a nickname");
+
+if (myName == "something") {
+  alert('Your name is'  + myName);
 }
