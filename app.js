@@ -118,6 +118,8 @@
 
 /* if Statement */
 
+let myName = ("Abir");
+
 if (condition) {
     
 };
