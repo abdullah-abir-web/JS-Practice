@@ -118,7 +118,7 @@
 
 /* if Statement */
 
-let myName = "Abir";
+// let myName = "Abir";
 
 if (myName == "Abir") {
   alert("hello JS");
