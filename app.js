@@ -132,7 +132,30 @@
 /* if Statement End */
 
 
+
 /* Operand, Unary and Binary Operator */
 // Operator +, -, *, /, %, **
 
-2 + 5
+// 2 + 5  ---2,5 operand
+
+// let firstNumber = 5;
+// console.log(firstNumber);
+
+// let secondNumber = -5; //------Unary operator name hocche nigation Operator
+
+// console.log(secondNumber);
+
+// let firstNumber = 5;
+// firstNumber = -firstNumber;
+
+// console.log(firstNumber);
+
+// je somosto operator shb somoy 2 ta operator niye kaj kore tader ke Binary operator bole
+
+2 * 5
+
+let firstNumber = 5;
+let secondNumber = 2;
+
+let result = firstNumber - secondNumber; // -substraction operator
+console.log(result);
