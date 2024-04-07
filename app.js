@@ -150,12 +150,13 @@
 
 // console.log(firstNumber);
 
+
+
 // je somosto operator shb somoy 2 ta operator niye kaj kore tader ke Binary operator bole
+// 2 * 5
+// let firstNumber = 5;
+// let secondNumber = 2;
 
-2 * 5
+// let result = firstNumber % secondNumber; // -substraction operator, *multipication,  /division, %modiolus ba remaindar,
+// console.log(result);
 
-let firstNumber = 5;
-let secondNumber = 2;
-
-let result = firstNumber - secondNumber; // -substraction operator
-console.log(result);
