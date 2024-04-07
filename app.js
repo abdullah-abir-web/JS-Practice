@@ -190,6 +190,54 @@
 /*In operator End*/
 
 
-/* Object in function */
 
-/* Object in function End */
+
+/* Object in function */
+// let user = {
+//     firstName: "Abdullah",
+//     lastName: "Abir"
+// };
+// console.log(user);
+
+// function createUser () {
+
+//     let user = {
+//             firstName: "Abdullah",
+//             lastName: "Abir"
+//         };
+//         // console.log(user);
+//         // console.log(user['firstName']); .ba[]
+// }
+// createUser();
+
+//------------------------------------------------------
+// function createUser (first_name, last_name) {
+
+//     let user = {
+//             firstName: first_name,
+//             lastName: last_name
+//         };
+//         console.log(user.firstName + " " +user.lastName);
+//         // console.log(user['firstName']); .ba[]
+// }
+// createUser("Abdullah", "Abir");
+//----------------------------------------------------------
+function createUser (firstName, lastName) {
+
+    // let user = {
+    //         firstName: firstName,
+    //         lastName: lastName
+    //     };
+
+    let user = {
+        firstName,
+        lastName
+    };
+    return user;
+        // console.log(user.firstName + " " +user.lastName);
+        // console.log(user['firstName']); .ba[]
+} 
+let newUser = createUser("Abdullah", "Abir");
+console.log(newUser.firstName);
+// /* Object in function End */
+
