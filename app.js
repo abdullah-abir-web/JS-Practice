@@ -151,12 +151,30 @@
 // console.log(firstNumber);
 
 
-
 // je somosto operator shb somoy 2 ta operator niye kaj kore tader ke Binary operator bole
 // 2 * 5
 // let firstNumber = 5;
 // let secondNumber = 2;
 
-// let result = firstNumber % secondNumber; // -substraction operator, *multipication,  /division, %modiolus ba remaindar,**exponentiation
+// let result = firstNumber % secondNumber; // +adition, -substraction operator, *multipication,  /division, %modiolus ba remaindar,**exponentiation
 // console.log(result);
+/* Operand, Unary and Binary Operator End */
 
+
+
+/*In operator*/
+
+// let name = {};
+// console.log(name.html); //--------undefined
+
+let nameList = {
+    html: "name List"
+};
+
+// if (name.html === undefined) {
+//     console.log("html defind");
+// }else{
+//     console.log("hyml apply");
+// }
+
+console.log("html" in nameList);
