@@ -118,7 +118,6 @@
 
 
 
-
 /* if Statement */
 // let myName = "Abir";
 // if (myName == "Abir") {
@@ -130,7 +129,6 @@
 //   alert('Your name is'  + myName);
 // }
 /* if Statement End */
-
 
 
 /* Operand, Unary and Binary Operator */
@@ -150,7 +148,6 @@
 
 // console.log(firstNumber);
 
-
 // je somosto operator shb somoy 2 ta operator niye kaj kore tader ke Binary operator bole
 // 2 * 5
 // let firstNumber = 5;
@@ -162,19 +159,34 @@
 
 
 
-/*In operator*/
 
+
+
+/*In operator*/
 // let name = {};
 // console.log(name.html); //--------undefined
 
-let nameList = {
-    html: "name List"
-};
+// let nameList = {
+//   html: "name List",
+// };
 
-// if (name.html === undefined) {
-//     console.log("html defind");
-// }else{
-//     console.log("hyml apply");
+// // console.log("html" in nameList);
+
+// if ("html" in nameList) {
+//   console.log("html property exist");
+// } else {
+//   console.log("html property dosen't exist");
 // }
+//-----------------------------------------------------------//
+// let nameList = {
+//     html: "name List",
+//   };
 
-console.log("html" in nameList);
+// let propName = "html"
+
+// if (propName in nameList) {
+//   console.log("html property exist");
+// } else {
+//   console.log("html property dosen't exist");
+// }
+/*In operator End*/
