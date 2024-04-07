@@ -132,4 +132,6 @@
 /* if Statement End */
 
 
-/* */
+/* Operand, Unary and Binary Operator */
+// Operator +, -, *, /, %, **
+
