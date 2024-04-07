@@ -112,9 +112,7 @@
 // alert("hello");
 /* Prompt and confrim End */
 
-/* Type Conversion */
 
-/* Type Conversion end */
 
 
 
@@ -190,3 +188,9 @@
 //   console.log("html property dosen't exist");
 // }
 /*In operator End*/
+
+
+
+/* Property name Rules */
+
+/* Property name Rules End*/
