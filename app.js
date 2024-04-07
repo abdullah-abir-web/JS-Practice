@@ -190,7 +190,3 @@
 /*In operator End*/
 
 
-
-/* Property name Rules */
-
-/* Property name Rules End*/
