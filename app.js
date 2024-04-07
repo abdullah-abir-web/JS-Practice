@@ -157,6 +157,6 @@
 // let firstNumber = 5;
 // let secondNumber = 2;
 
-// let result = firstNumber % secondNumber; // -substraction operator, *multipication,  /division, %modiolus ba remaindar,
+// let result = firstNumber % secondNumber; // -substraction operator, *multipication,  /division, %modiolus ba remaindar,**exponentiation
 // console.log(result);
 
