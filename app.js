@@ -190,3 +190,6 @@
 /*In operator End*/
 
 
+/* Object in function */
+
+/* Object in function End */
