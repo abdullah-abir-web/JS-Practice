@@ -245,3 +245,11 @@ console.log(newUser.firstName);
 
 
 
+
+
+//js practice//
+
+
+
+
+
